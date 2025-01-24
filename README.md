@@ -1,1 +1,1 @@
-# Pagina-de-Receitas
+# Pagina-de-Receita
